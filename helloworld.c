@@ -2,6 +2,6 @@
 
 // the coolest function ever
 int main() {
-  printf("Hello, World!\n");
+  printf("Hello, zdr26!\n");
   return 0;
 }
